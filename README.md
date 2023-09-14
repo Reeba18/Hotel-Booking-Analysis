@@ -1,7 +1,7 @@
 # Hotel Booking Analysis
 
 ## Context
-Resort Hotel and City Hotel are experiencing high cancellation rates,which are adversely affecting their revenues. The project aims to analyse the dataset to identify some of the main reasons for it and make recommendations to improve the situation.
+Resort Hotel and City Hotel are experiencing high cancellation rates,which are adversely affecting their revenues. The project aims to analyse the dataset to identify some of the main reasons for it.
 
 ## Aim
 The project focuses on:
