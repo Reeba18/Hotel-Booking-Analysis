@@ -1,5 +1,5 @@
 # Hotel Booking Analysis
-
+View this project on : https://mavenanalytics.io/project/8998
 ## Context
 Resort Hotel and City Hotel are experiencing high cancellation rates,which are adversely affecting their revenues. The project aims to analyse the dataset to identify some of the main reasons for it.
 
